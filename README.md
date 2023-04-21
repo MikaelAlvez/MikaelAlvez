@@ -29,6 +29,8 @@ These are the languages and frameworks i already studied and i had pratice with:
   
   ##
  
+Contacts:
+  
 <div> 
   <a href="https://www.linkedin.com/in/mikael-alves-0968b1181/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:mikaelalvez5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
