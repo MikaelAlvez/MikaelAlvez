@@ -10,8 +10,6 @@ I'm familiar with FrontEnd development, I work mainly with JavaScript/TypeScript
     <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikael-Kalashnikov&hide_progress=false&theme=dark"/>
 </div>
 
-##
-
 These are the languages and frameworks i already studied and i had pratice with:
 
 <div style="display: inline_block"><br>
