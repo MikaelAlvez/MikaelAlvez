@@ -3,12 +3,6 @@ I'm a computer technician at IFRN and currently a computer science student at UF
 
 I'm familiar with FrontEnd development, I work mainly with JavaScript/TypeScript with React and next.js, but I'm engaging in BackEnd.
 
-<div>
-  <a href="https://github.com/Mikael-Kalashnikov">
-    <img height="220em" src="https://github-readme-stats.vercel.app/api?username=Mikael-Kalashnikov&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikael-Kalashnikov&hide_progress=false&theme=dark"/>
-</div>
-
 These are the languages and frameworks i already studied and i had pratice with:
 
 <div style="display: inline_block"><br>
