@@ -8,6 +8,7 @@ I am familiar with FrontEnd development, I work mainly with JavaScript/TypeScrip
     <img height="220em" src="https://github-readme-stats.vercel.app/api?username=MikaelAlvez&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
+##
 These are the languages and frameworks i already studied and i had pratice with:
 
 <div style="display: inline_block"><br>
@@ -23,13 +24,20 @@ These are the languages and frameworks i already studied and i had pratice with:
   <img align="center" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/2048px-Electron_Software_Framework_Logo.svg.png">
   <img align="right" alt="Rafa-pic" height="250" style="border-radius:50px;" src="https://www.icegif.com/wp-content/uploads/2023/04/icegif-1367.gif">
 </div>
-  
+
   ##
- 
+  <img src="https://streak-stats.demolab.com?user=MikaelAlvez&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
+ ##
 Contacts:
   
 <div> 
   <a href = "mailto:mikaelalvez5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/mikael-alves-0968b1181/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/jmikael_alves/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+
+##
+<div align="center">
+  <img align="left" src="https://profile-counter.glitch.me/MikaelAlvez/count.svg?"  />
 </div>
