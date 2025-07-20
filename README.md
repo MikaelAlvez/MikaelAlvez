@@ -12,7 +12,7 @@ I am familiar with FrontEnd development, I work mainly with JavaScript/TypeScrip
 These are the languages and frameworks i already studied and i had pratice with:
 
 <div style="display: inline_block"><br>
-  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML 5</img>
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -22,6 +22,7 @@ These are the languages and frameworks i already studied and i had pratice with:
   <img align="center" height="40" width="40" color="white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png">
   <img align="center" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/2048px-Electron_Software_Framework_Logo.svg.png">
+  <img align="center" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/800px-Ruby_logo.svg.png">
   <img align="right" alt="Rafa-pic" height="250" style="border-radius:50px;" src="https://www.icegif.com/wp-content/uploads/2023/04/icegif-1367.gif">
 </div>
 
