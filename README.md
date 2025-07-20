@@ -23,6 +23,7 @@ These are the languages and frameworks i already studied and i had pratice with:
   <img align="center" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png">
   <img align="center" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/2048px-Electron_Software_Framework_Logo.svg.png">
   <img align="center" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/800px-Ruby_logo.svg.png">
+  <img align="center" height="40" width="40" src="https://miro.medium.com/v2/resize:fit:1400/1*wB_1_TiEgC1OHQ0IZ9FlVQ.png">
   <img align="right" alt="Rafa-pic" height="250" style="border-radius:50px;" src="https://www.icegif.com/wp-content/uploads/2023/04/icegif-1367.gif">
 </div>
 
